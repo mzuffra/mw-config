@@ -4251,7 +4251,7 @@ $wgConf->settings = array(
 		'wisdomsandboxwiki' => "//$wmgUploadHostname/wisdomsandboxwiki/6/64/Favicon.ico",
 	),
 	'wgLogo' => array(
-		'default' => "//$wmgUploadHostname/metawiki/3/35/Miraheze_Logo.svg",
+		'umpcwiki' => "//$wmgUploadHostname/umpcwiki/7/78/LogoUMPC.png",
 		'690squadronwiki' => "//$wmgUploadHostname/690squadronwiki/f/f4/Squadlogo.png",
 		'8stationwiki' => "//$wmgUploadHostname/8stationwiki/3/3b/Wiki_logo.png",
 		'aacenterpriselearningwiki' => "//$wmgUploadHostname/aacenterpriselearningwiki/c/c6/AACLogo.jpg",
